@@ -1,4 +1,4 @@
-- 👋 Hi, I’m WhitEmber
+- 👋 Hi, I’m somnus
 - 👀 I’m interested in c++, python,
 math(differential equations and signal processing)
 - 🌱 I’m currently learning c++,html,css,js
