@@ -1,5 +1,6 @@
 - 👋 Hi, I’m WhitEmber
-- 👀 I’m interested in html,css,js(maybe) c++(burning chicken) python(newbie
+- 👀 I’m interested in c++, python,
+math(differential equations and signal processing)
 - 🌱 I’m currently learning c++,html,css,js
 - 💞️ I’m looking to collaborate on maybe further future i can do it
 - 📫 How to reach me jieyou.1107@gmail.com
